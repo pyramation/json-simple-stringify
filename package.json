@@ -1,0 +1,22 @@
+{
+  "name": "json-stringify-simple",
+  "version": "1.0.0",
+  "description": "simple json stringify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyramation/json-simple-stringify.git"
+  },
+  "keywords": [
+    "stringify"
+  ],
+  "author": "pyramation@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyramation/json-simple-stringify/issues"
+  },
+  "homepage": "https://github.com/pyramation/json-simple-stringify#readme"
+}
