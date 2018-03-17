@@ -1,7 +1,7 @@
 {
   "name": "json-stringify-simple",
-  "version": "1.0.0",
-  "description": "simple json stringify",
+  "version": "1.0.1",
+  "description": "Creates a reproducable json hash string. Order of keys is based on postgres pretty_print",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
